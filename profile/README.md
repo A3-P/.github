@@ -5,11 +5,11 @@
 
 
 ## Autores
-- [Wendel alves](https://www.github.com/wendellast)
 - [Camile Andrade](https://www.github.com/andra-sun)
-- [Marcos Vilas](https://www.github.com/VilasBoass)
 - [Fernando Teixeira](https://www.github.com/nadox00)
 - [Luiz Henrique](https://www.github.com/LuyysHenriqueKuromi)
+- [Marcos Vilas](https://www.github.com/VilasBoass)
+- [Wendel alves](https://www.github.com/wendellast)
 
 
 ## Stack utilizada
