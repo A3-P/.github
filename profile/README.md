@@ -56,12 +56,25 @@ Com essas funcionalidades, nosso site oferece uma experiência intuitiva e perso
 
 
 ## Screenshots
+| Landing page |
+| --- |
+| <img src="images/ladingPage.png" /> |
 
-![Lading Page](images/ladingPage.png)
 <br/>
-![Login](images/login.png)
+
+| Login |
+| --- |
+| <img src="images/login.png" /> |
+
 <br/>
-![Main Page](images/mainPage.png)
+
+| Tela Principal |
+| --- |
+| <img src="images/mainPage.png" /> |
+
 <br/>
-![Add Page](images/addPage.png)
+
+| Tela de Cadastro |
+| --- |
+| <img src="images/addPage.png" /> |
 
