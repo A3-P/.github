@@ -57,5 +57,8 @@ Com essas funcionalidades, nosso site oferece uma experiência intuitiva e perso
 
 ## Screenshots
 
-![Main Page](images/)
+![Main Page](images/mainPage.png)
+![Add Page](images/addPage.png)
+![Lading Page](images/lading.png)
+![Login](images/login.png)
 
