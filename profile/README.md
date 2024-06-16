@@ -4,7 +4,7 @@
 ### Nossa missão é ajudar você a organizar e registrar os livros que já leu ou que deseja ler.
 
 
-## Autores
+## Integrantes 
 - [Camile Andrade](https://www.github.com/andra-sun)
 - [Fernando Teixeira](https://www.github.com/nadox00)
 - [Luiz Henrique](https://www.github.com/LuyysHenriqueKuromi)
@@ -12,7 +12,7 @@
 - [Wendel alves](https://www.github.com/wendellast)
 
 
-## Stack utilizada
+## Tecnologias Utilizadas
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
