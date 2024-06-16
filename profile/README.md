@@ -53,3 +53,9 @@ Em nosso [site](https://book-guardian-production.up.railway.app/), oferecemos um
 - **Personalização de Cores**: Escolha entre azul e rosa para as cores principais do site, proporcionando uma experiência visual mais agradável.
 
 Com essas funcionalidades, nosso site oferece uma experiência intuitiva e personalizada para você gerenciar e explorar sua coleção de livros.
+
+
+## Screenshots
+
+![Main Page](images/)
+
