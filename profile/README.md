@@ -74,7 +74,12 @@ Com essas funcionalidades, nosso site oferece uma experiência intuitiva e perso
 
 <br/>
 
-| Tela de Cadastro |
+| Tela de Cadastro do Livro |
 | --- |
 | <img src="images/addPage.png" /> |
 
+<br/>
+
+| Tela de Informações do Livro |
+| --- |
+| <img src="images/bookDetail.png" /> |
