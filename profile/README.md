@@ -59,6 +59,6 @@ Com essas funcionalidades, nosso site oferece uma experiência intuitiva e perso
 
 ![Main Page](images/mainPage.png)
 ![Add Page](images/addPage.png)
-![Lading Page](images/lading.png)
+![Lading Page](images/ladingPage.png)
 ![Login](images/login.png)
 
